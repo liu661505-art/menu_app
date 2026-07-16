@@ -1,0 +1,31 @@
+{
+  "categories": [
+    { "id": "re", "name": "热菜", "icon": "🍲" },
+    { "id": "leng", "name": "凉菜", "icon": "🥗" },
+    { "id": "yinpin", "name": "饮品", "icon": "🥤" },
+    { "id": "zhushi", "name": "主食", "icon": "🍚" }
+  ],
+  "items": [
+    { "id": 1, "name": "宫保鸡丁", "category_id": "re", "price": 38, "image": "🍗", "description": "经典川菜，花生与鸡丁爆炒" },
+    { "id": 2, "name": "鱼香肉丝", "category_id": "re", "price": 32, "image": "🥩", "description": "酸甜微辣，下饭好菜" },
+    { "id": 3, "name": "麻婆豆腐", "category_id": "re", "price": 22, "image": "🫘", "description": "麻辣鲜香，嫩滑入味" },
+    { "id": 4, "name": "红烧排骨", "category_id": "re", "price": 48, "image": "🍖", "description": "色泽红亮，骨香浓郁" },
+    { "id": 5, "name": "清蒸鲈鱼", "category_id": "re", "price": 58, "image": "🐟", "description": "鲜嫩清甜，原汁原味" },
+    { "id": 6, "name": "蒜蓉空心菜", "category_id": "re", "price": 18, "image": "🥬", "description": "清脆爽口，蒜香四溢" },
+
+    { "id": 7, "name": "凉拌黄瓜", "category_id": "leng", "price": 12, "image": "🥒", "description": "清爽解腻，蒜泥调味" },
+    { "id": 8, "name": "口水鸡", "category_id": "leng", "price": 28, "image": "🐔", "description": "红油浇汁，麻辣鲜香" },
+    { "id": 9, "name": "皮蛋豆腐", "category_id": "leng", "price": 16, "image": "🥟", "description": "冰镇嫩豆腐配皮蛋" },
+    { "id": 10, "name": "夫妻肺片", "category_id": "leng", "price": 32, "image": "🥓", "description": "麻辣卤味，经典川菜" },
+
+    { "id": 11, "name": "可乐", "category_id": "yinpin", "price": 5, "image": "🥤", "description": "冰镇可乐" },
+    { "id": 12, "name": "雪碧", "category_id": "yinpin", "price": 5, "image": "🥤", "description": "清爽柠檬味" },
+    { "id": 13, "name": "酸梅汤", "category_id": "yinpin", "price": 8, "image": "🧃", "description": "自制酸梅汤，冰镇解暑" },
+    { "id": 14, "name": "橙汁", "category_id": "yinpin", "price": 12, "image": "🍊", "description": "鲜榨橙汁" },
+
+    { "id": 15, "name": "米饭", "category_id": "zhushi", "price": 3, "image": "🍚", "description": "东北大米" },
+    { "id": 16, "name": "炒面", "category_id": "zhushi", "price": 15, "image": "🍜", "description": "鸡蛋炒面" },
+    { "id": 17, "name": "水饺", "category_id": "zhushi", "price": 18, "image": "🥟", "description": "猪肉白菜馅" },
+    { "id": 18, "name": "馒头", "category_id": "zhushi", "price": 2, "image": "🥖", "description": "手工馒头" }
+  ]
+}
